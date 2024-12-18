@@ -22,9 +22,8 @@ yarn start
 ```
 then check http://localhost:3000/
 
-```angular2html
 Video demo for installing and result : https://www.loom.com/share/e6e9ba2f3e514a0c883b35b1c59eb0a8
-```
+
 
 ## Build
 
